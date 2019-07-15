@@ -1,0 +1,27 @@
+<style>
+
+body{
+	font-family: "Trebuchet MS";	
+}
+
+main{
+
+	background-color: #17a2b8;
+}
+
+header {
+	padding: 9px;
+}
+
+.bg-info{
+	padding: 15px;
+}
+
+i {
+	font-size: 100px;
+	padding: 33px;
+	text-align:center;
+}
+
+h1 {text-align: center;}
+</style>
